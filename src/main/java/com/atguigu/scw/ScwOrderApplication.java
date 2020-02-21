@@ -20,4 +20,5 @@ public class ScwOrderApplication {
 		SpringApplication.run(ScwOrderApplication.class, args);
 	}
 	public void test1() {}
+	public void test2() {}
 }
